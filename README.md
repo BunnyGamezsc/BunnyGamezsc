@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunnygamezsc&label=Profile%20views&color=0e75b6&style=flat" alt="bunnygamezsc" /> </p>
 
 - 👋 Hi, I’m @BunnyGamezsc but you can also call me BunnyGamez
-- 🧑‍💻 I’m program mainly in javascript but love many other languages (swift, kotlin, rust, java)
+- 🧑‍💻 I program mainly in javascript but love many other languages (swift, kotlin, rust, java)
 - 🌱 I’m currently learning **Javascript, Java, Rust and SolidJS**
 
 ### Latest Project: I’m currently working on a Custom Minecraft Launcher aimed at performance and customizability 
