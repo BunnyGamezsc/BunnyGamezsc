@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 - 💬 Ask me about **How to get started with programming**
 
 - ⚡ Fun fact **I started with Scratch when I was 7**
+  
+- I'm always looking for help to make my code cleaner and UIs more appealing!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
