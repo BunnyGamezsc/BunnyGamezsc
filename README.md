@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @BunnyGamezsc but you can also call me BunnyGamez
 - 🧑‍💻 I program mainly in javascript but love many other languages (swift, kotlin, rust, java)
-- 🌱 I’m currently learning **Javascript, Java, Rust and SolidJS**
+- 🌱 I’m currently learning **Javascript, Java, Rust and React**
 
 ### Latest Project: I’m currently working on a Custom Minecraft Launcher aimed at performance and customizability 
 
